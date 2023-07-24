@@ -1,2 +1,2 @@
-# Agency
-https://mohamadxh.github.io/Agency-Web-Template/
+# University
+https://mohamadxh.github.io/University/
